@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niranjan Kurhade
-- 👀 I’m interested in Open-Source and Development!
+- 👀 I’m interested in Contributing to Open-Source and Development!
 - 🌱 I’m currently learning Web Development
 
 
